@@ -1,0 +1,25 @@
+ARGUMENTS
+batch_size: 2
+cuda: store_false
+dataset: cityscapes
+dataset_dir: /media/jintain/sg/permanent/datasets/Cityscapes
+epochs: 300
+height: 512
+ignore_unlabeled: True
+imshow_batch: False
+learning_rate: 0.0005
+lr_decay: 0.1
+lr_decay_epochs: 100
+mode: train
+name: ENet_cityscapes_mine
+print_step: False
+resume: False
+save_dir: save
+weighing: ENet
+weight_decay: 0.0002
+width: 1024
+workers: 0
+
+BEST VALIDATION
+Epoch: 6
+Mean IoU: 0

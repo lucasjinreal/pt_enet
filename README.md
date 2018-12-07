@@ -6,7 +6,7 @@ small with only 28M.
 This repo contains the inference demo with already trained weights for production. the weights
 trained on cityscapes and camvid. the result like below:
 
-<div align=center><img src="http://github.com/jinfagang/pt_enet/raw/master/images/22.gif"/></div>
+<div align=center><img src="http://github.com/jinfagang/pt_enet/blob/master/images/22.gif?raw=true"/></div>
 
 
 ## Runing

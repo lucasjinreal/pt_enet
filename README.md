@@ -32,3 +32,5 @@ sudo pip3 install alfred-py
 
 
 If you want training with your own dataset or fine-tune on cityscapes, you can get the full version codes from http://strangeai.pro .  contact me to get the full codes, you can find me on that website.
+
+you can access now: http://strangeai.pro/aicodes_detail.html?id=24

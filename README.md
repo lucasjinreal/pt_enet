@@ -22,7 +22,7 @@ this demo requires `alfred-py`, you should install first with:
 ```
 sudo pip3 install alfred-py
 ```
-
+the alfred-py is a helpfull utilize library for **deep learning**: github.com/jinfagang/alfred
 
 
 
